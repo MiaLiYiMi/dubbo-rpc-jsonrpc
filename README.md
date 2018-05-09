@@ -158,10 +158,10 @@ if __name__ == '__main__':
 ```
 
 ## Python客户端
-https://github.com/QianmiOpen/dubbo-client-py
+https://github.com/dubbo/dubbo-client-py
 
 ## Nodejs客户端
-https://github.com/QianmiOpen/dubbo-node-client
+https://github.com/dubbo/dubbo2.js
 
 ## 客户端服务端Example  
 https://github.com/JoeCao/dubbo_jsonrpc_example  
@@ -173,7 +173,7 @@ https://github.com/JoeCao/dubbo_jsonrpc_example
 ## 文档资料
 
 [JSON-RPC 2.0 规范](http://www.jsonrpc.org/specification) 
- 
+
 [jsonrpc4j](https://github.com/briandilley/jsonrpc4j) 
- 
+
 [dubbo procotol](http://www.dubbo.io/Protocol+Reference-zh.htm) 
